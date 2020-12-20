@@ -1,0 +1,42 @@
+#inpTxt,#OutTxt{
+    width: 80%
+}
+
+.container{
+    background-image: url("WShakespeares_Plays.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.inputText{
+    margin-top: 15rem;
+    font-size: 2rem;;
+}
+
+img{
+    height: 30vh;
+    width: 60%;
+    margin-left: 17rem;
+    margin-top: 5rem;
+}
+
+textarea{
+    width:80%;
+    margin-left:9rem;
+    display: block;
+    font-size: 18px;
+}
+
+#btnTranslate{
+    margin-left: 30rem;
+    border-radius: 5px;
+    width: 30%;
+    color: rgb(102, 13, 13);
+    /* background-color:  rgb(255, 255, 5); */
+    font-weight: 400;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+}
